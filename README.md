@@ -7,3 +7,5 @@
 ![БСП - интеграционные и технологические механизмы](https://github.com/user-attachments/assets/f64767b5-98b5-427a-88dc-708ca0677548)
 
 ![БСП - прикладные и сервисные механизмы](https://github.com/user-attachments/assets/21133dfe-0ff6-441b-a6f0-defb00d1c915)
+
+![Бюджетирование  Производство  Расчет себестоимости в программе 1СКомплексная автоматизация 2](https://github.com/user-attachments/assets/5dc2f0f8-bbef-4740-a247-bf5055464382)
