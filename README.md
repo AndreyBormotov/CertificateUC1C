@@ -3,6 +3,8 @@
 <img src="https://github.com/user-attachments/assets/5dc2f0f8-bbef-4740-a247-bf5055464382" width="300" height="500" alt="Альтернативный текст">
 <img src="https://github.com/user-attachments/assets/a90f1d21-d109-49fb-a9be-34793a4cbe9a" width="300" height="500" alt="Альтернативный текст">
 
+<img src="https://github.com/user-attachments/assets/5dc2f0f8-bbef-4740-a247-bf5055464382" style="width: 500px; max-width: 100%; height: auto;" alt="Альтернативный текст">
+<img src="https://github.com/user-attachments/assets/a90f1d21-d109-49fb-a9be-34793a4cbe9a" style="width: 500px; max-width: 100%; height: auto;" alt="Альтернативный текст">
 <img src="https://github.com/user-attachments/assets/f64767b5-98b5-427a-88dc-708ca0677548" style="width: 500px; max-width: 100%; height: auto;" alt="Альтернативный текст">
 
 <img src="https://github.com/user-attachments/assets/37ab2161-8dc5-4941-9095-bb91fe7b6d5b" width="400" style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;" alt="Изображение с рамкой">
