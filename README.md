@@ -1,5 +1,6 @@
 <h2><strong>Удостоверения Учебного центра 1С</strong></h2>
 
+<img src="https://github.com/user-attachments/assets/5dc2f0f8-bbef-4740-a247-bf5055464382" width="500" height="300" alt="Альтернативный текст">
 ![Бюджетирование  Производство  Расчет себестоимости в программе 1СКомплексная автоматизация 2](https://github.com/user-attachments/assets/5dc2f0f8-bbef-4740-a247-bf5055464382)
 ![БСП - инструментарий администратора](https://github.com/user-attachments/assets/a90f1d21-d109-49fb-a9be-34793a4cbe9a)
 ![БСП - интеграционные и технологические механизмы](https://github.com/user-attachments/assets/f64767b5-98b5-427a-88dc-708ca0677548)
